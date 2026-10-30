@@ -16,13 +16,13 @@ Portfolio and résumés: **[mustafaalqudah.com](https://mustafaalqudah.com)** ·
 - A multi-tenant workspace: CRM, projects, workflows, approvals, an audit log and role-based access.
 - It plans a two-week social calendar per brand, renders the graphics on the server and publishes to Instagram, Facebook and LinkedIn after approval in a Telegram bot.
 - AI image and video providers sit behind one registry with a daily budget, so nothing is spent until a person asks.
-- 250+ test files, run in CI with typecheck and lint on every push.
+- 250+ test files, with typecheck and lint, run before every release.
 
 **[CodeIt](https://github.com/alqudah1/CodeIt)** · [codeitlearn.com](https://codeitlearn.com)
 `React` `Node.js` `Express` `PostgreSQL` `Supabase` `Stripe`
 - Kids describe a game and get a working first version, then edit it and see the code.
 - Quizzes are generated from the child's own code, so a guess scores like a guess.
-- 31 Python lessons and a playground that runs in the browser, with 1,400+ automated tests.
+- Built for ages 8 to 14: beginner Python lessons and a playground that runs in the browser, with 2,000+ automated tests.
 - My capstone project, selected as a Top 5 finalist out of 49 teams.
 
 **Client websites** (through LYNQ)
